@@ -1,4 +1,4 @@
-current="1"
+current="1.1"
 git clone https://github.com/officialkeshav/verop
 che=$(cat verop/v1.txt | tr -d '[:space:]')
 rm -rf verop
